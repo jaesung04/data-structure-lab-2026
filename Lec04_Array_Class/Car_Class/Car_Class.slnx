@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Car_Class.vcxproj" Id="515da362-8013-4367-9bfe-24bd18da869d" />
-</Solution>
